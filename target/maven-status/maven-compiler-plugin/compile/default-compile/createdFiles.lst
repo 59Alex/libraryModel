@@ -1,0 +1,16 @@
+org\library\builder\JournalBuilder.class
+org\library\builder\RoleBuilder.class
+org\library\builder\AuthorBuilder.class
+org\library\builder\ContentBuilder.class
+org\library\model\Role.class
+org\library\model\Book.class
+org\library\model\Newspaper.class
+org\library\builder\NewspaperBuilder.class
+org\library\model\Content.class
+org\library\model\RoleEnum.class
+org\library\model\Journal.class
+org\library\builder\BookBuilder.class
+org\library\model\Author.class
+org\library\builder\UserBuilder.class
+org\library\model\ContentType.class
+org\library\model\User.class
